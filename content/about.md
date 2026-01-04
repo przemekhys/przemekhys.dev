@@ -6,4 +6,4 @@ title = 'O mnie'
 
 Cześć! Jestem Przemek.
 
-Witaj na moim blogu o tech, AI i ogrodnictwie.
+Mówią o mnie, że jestem inżynierem w branży IT, ale tam prawie o każdym tak mówią. Lubię sobie pogrzebać przy komputerze – jak blade światło z monitora z wielkim czarnym terminalem okala moją postać, czuję, że jestem w dobrym miejscu. Ostatnio odkryłem też w sobie pasję do grzebania w ziemi – nazywam siebie aspirującym ogrodnikiem. Narazie jedyne moje osiągnięcia to stworzenie kompostu w kompostowniku i nierówny trawnik w ogródku, ale wszystko przede mną.

@@ -1,10 +1,10 @@
-baseURL = 'https://kubełek.dev/'
+baseURL = 'https://przemekhys.dev/'
 languageCode = 'pl-pl'
-title = 'Mój Blog'
+title = 'Notatki Przemka'
 theme = 'PaperMod'
 
 [params]
-  description = "Blog o tech, AI i ogrodnictwie"
+  description = "Moje autorskie notatki o tech i ogrodnictwie"
   author = "Przemek"
   
 [menu]
