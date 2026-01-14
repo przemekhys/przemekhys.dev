@@ -1,6 +1,6 @@
 ---
 title: "vibe coder"
-date: 2026-01-17T10:00:00+01:00
+date: 2026-01-14T10:00:00+01:00
 draft: false
 tags: ["AI", "Home Assistant", "kubernetes", "k8s"]
 ---
